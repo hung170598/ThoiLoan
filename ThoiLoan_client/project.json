@@ -44,7 +44,7 @@
         "src/modules/testnetwork/network/Network.js",
         "src/modules/testnetwork/network/Packet.js",
         "src/modules/testnetwork/ScreenNetwork.js",
-        "src/map/MapLayer.js"
+        "src/modules/map/MapLayer.js"
 
     ]
 }
