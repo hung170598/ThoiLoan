@@ -73,6 +73,7 @@ var g_resources = [
     "zcsd/screen_menu.json",
     "zcsd/screen_network.json",
     "zcsd/screen_zalo.json",
+
     "Map/1_0000_Layer-3.png",
     "Map/1_0001_Layer-1.png",
     "Map/1_0002_Layer-4.png",

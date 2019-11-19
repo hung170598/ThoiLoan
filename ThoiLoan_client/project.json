@@ -44,7 +44,13 @@
         "src/modules/testnetwork/network/Network.js",
         "src/modules/testnetwork/network/Packet.js",
         "src/modules/testnetwork/ScreenNetwork.js",
-        "src/modules/map/MapLayer.js"
+        "src/modules/map/BanDo.js",
+        "src/modules/game/QuanLyGame.js",
+        "src/modules/game/EventManager.js",
+        "src/modules/building/Building.js",
+        "src/modules/building/MainHouse.js",
+        "src/modules/building/BuilderHouse.js",
+        "src/GameConfig.js"
 
     ]
 }

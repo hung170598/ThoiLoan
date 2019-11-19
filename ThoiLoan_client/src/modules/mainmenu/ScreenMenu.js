@@ -31,7 +31,7 @@ var ScreenMenu = cc.Layer.extend({
         fr.view(ScreenNetwork);
     },
     onSelectPlay:function(){
-        fr.view(MapLayer);
+        fr.view(QuanlyGame);
     }
 
 });
