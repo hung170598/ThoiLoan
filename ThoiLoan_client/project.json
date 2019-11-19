@@ -38,19 +38,20 @@
         "src/base/network/InPacketFactory.js",
         "src/base/Resource.js",
         "src/base/UIFactory.js",
+        "src/GameConfig.js",
+        "src/MapConfig.js",
         "src/modules/animation/ScreenDragonbones.js",
+        "src/modules/building/ArmyCamp.js",
+        "src/modules/building/BuiderHouse.js",
+        "src/modules/building/Building.js",
+        "src/modules/building/TownHall.js",
+        "src/modules/game/EventManager.js",
+        "src/modules/game/QuanLyGame.js",
         "src/modules/localization/ScreenLocalization.js",
         "src/modules/mainmenu/ScreenMenu.js",
+        "src/modules/map/BanDo.js",
         "src/modules/testnetwork/network/Network.js",
         "src/modules/testnetwork/network/Packet.js",
-        "src/modules/testnetwork/ScreenNetwork.js",
-        "src/modules/map/BanDo.js",
-        "src/modules/game/QuanLyGame.js",
-        "src/modules/game/EventManager.js",
-        "src/modules/building/Building.js",
-        "src/modules/building/MainHouse.js",
-        "src/modules/building/BuilderHouse.js",
-        "src/GameConfig.js"
-
+        "src/modules/testnetwork/ScreenNetwork.js"
     ]
 }
