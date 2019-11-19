@@ -1,4 +1,0 @@
-
-var TownHall = Building.extend({
-
-});
