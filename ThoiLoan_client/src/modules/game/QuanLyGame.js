@@ -5,6 +5,8 @@ var QuanlyGame = cc.Layer.extend({
     _map: null,
     ctor:function(){
         this._super();
+        winSize = cc.director.getVisibleSize();
+
         this._map = new BanDo();
         this._map.vi_tri = cc.p(winSize.width/2, winSize.height/2);
         this._map.setPosition(winSize.width/2, winSize.height/2);
